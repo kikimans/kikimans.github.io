@@ -1,0 +1,18 @@
+body {
+	background-color: #2f2f2f;
+	color: #eeefef;
+	/*font-size: 75.5%;*/
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.clear {
+clear: both;
+line-height: 0;
+font-size: 0;
+}
+
+.desc {
+	padding-left:10px;
+	font-size:12px;
+}
