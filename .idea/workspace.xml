@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09f6e3d9-3c18-4721-a282-56bb9e37b8aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career.html" afterPath="$PROJECT_DIR$/career.html" />
-    </list>
+    <list default="true" id="09f6e3d9-3c18-4721-a282-56bb9e37b8aa" name="Default" comment="" />
     <ignored path="kikimans.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="career.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2567237">
-              <caret line="128" column="89" selection-start-line="128" selection-start-column="89" selection-end-line="128" selection-end-column="89" />
+            <state vertical-scroll-proportion="0.46577018">
+              <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -205,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2567237">
-          <caret line="128" column="89" selection-start-line="128" selection-start-column="89" selection-end-line="128" selection-end-column="89" />
+        <state vertical-scroll-proportion="0.46577018">
+          <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
           <folding />
         </state>
       </provider>
